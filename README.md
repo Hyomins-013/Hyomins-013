@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Welcome👋-nl-Hyomins-GitHub&animation=fadeIn%20render&fontSize=45)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Welcome👋%30Hyomins-GitHub&animation=fadeIn%20render&fontSize=45)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-207%20hrs%2055%20mins-blue)
